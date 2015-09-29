@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">WithContentUri</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="hello_world">Hello world!</string>
+
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="addEmp">Add</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="newEmp">New Employee</string>
+    <string name="firstName">First Name</string>
+    <string name="lastName">Last Name</string>
+    <string name="empId">Employee ID</string>
+    <string name="deptName">Name</string>
+    <string name="newDept">New Department</string>
+    <string name="employees">Employees</string>
+    <string name="dept">Department</string>
+    <string name="deptStats">Dept Stats</string>
+</resources>
